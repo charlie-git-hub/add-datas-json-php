@@ -1,0 +1,380 @@
+[
+  {
+    "titre": "Minotaur",
+    "realisateurice": "Jonathan English",
+    "annees": 2006,
+    "legende": "minotaure",
+    "origine": "Mythologie grecque"
+  },
+  {
+    "titre": "Le Loup-garou de Londres",
+    "realisateurice": "John Landis",
+    "annees": 1981,
+    "legende": "loup-garou",
+    "origine": "Mythologie grecque"
+  },
+  {
+    "titre": "Affam\u00e9s",
+    "realisateurice": "Scott Cooper",
+    "annees": 2021,
+    "legende": "wendigo",
+    "origine": "Premi\u00e8res Nations algonquiennes"
+  },
+  {
+    "titre": "Wolfen",
+    "realisateurice": "Michael Wadleigh",
+    "annees": 1981,
+    "legende": "loup garou",
+    "origine": "Mythologie grecque"
+  },
+  {
+    "titre": "Gremlins",
+    "realisateurice": "Joe Dante",
+    "annees": 1984,
+    "legende": "gremlin",
+    "origine": "Royaume-Uni"
+  },
+  {
+    "titre": "Teketeke",
+    "realisateurice": "K\u014dji Shiraishi",
+    "annees": 2009,
+    "legende": "Teke Teke",
+    "origine": "Japon"
+  },
+  {
+    "titre": "Bio-Dead",
+    "realisateurice": "Stephen J. Hadden",
+    "annees": 2009,
+    "legende": "goules",
+    "origine": "arabe pr\u00e9islamique"
+  },
+  {
+    "titre": "Terror at Lost Lake",
+    "realisateurice": "Marcus Nash",
+    "annees": 2012,
+    "legende": "goules",
+    "origine": "arabe pr\u00e9islamique"
+  },
+  {
+    "titre": "La B\u00eate du G\u00e9vaudan",
+    "realisateurice": "Patrick Volson",
+    "annees": 2003,
+    "legende": "la b\u00eate du g\u00e9vaudan",
+    "origine": "Loz\u00e8re et Haute Loire (France)"
+  },
+  {
+    "titre": "Le Pacte des Loups",
+    "realisateurice": "Christophe Gans",
+    "annees": 2001,
+    "legende": "la b\u00eate du g\u00e9vaudan",
+    "origine": "Loz\u00e8re et Haute Loire (France)"
+  },
+  {
+    "titre": "Half Moon",
+    "realisateurice": "Jason Toler",
+    "annees": 2010,
+    "legende": "la b\u00eate du g\u00e9vaudan",
+    "origine": "Loz\u00e8re et Haute Loire (France)"
+  },
+  {
+    "titre": "Beneath Loch Ness",
+    "realisateurice": "Chuck Comisky",
+    "annees": 2001,
+    "legende": "le monstre du loch ness",
+    "origine": "Ecosse"
+  },
+  {
+    "titre": "Witches of the Water",
+    "realisateurice": "Louisa Warren",
+    "annees": 2019,
+    "legende": "sir\u00e8ne",
+    "origine": "m\u00e9di\u00e9val nord-europ\u00e9en."
+  },
+  {
+    "titre": "Forbidden Siren",
+    "realisateurice": "Yukihiko Tsutsumi",
+    "annees": 2006,
+    "legende": "sir\u00e8ne",
+    "origine": "m\u00e9di\u00e9val nord-europ\u00e9en."
+  },
+  {
+    "titre": "Krampus",
+    "realisateurice": "Michael Dougherty",
+    "annees": 2015,
+    "legende": "Krampus",
+    "origine": "Allemagne"
+  },
+  {
+    "titre": "slender man",
+    "realisateurice": "Sylvain White",
+    "annees": 2018,
+    "legende": "slender man",
+    "origine": "Amerique du nord"
+  },
+  {
+    "titre": "Zombie: Le Crepuscule des Morts-Vivants",
+    "realisateurice": "George A. Romero",
+    "annees": 1918,
+    "legende": "zombie",
+    "origine": "Afrique, Antilles, Louisiane et Europe"
+  },
+  {
+    "titre": "Dernier train pour Busan",
+    "realisateurice": "Yeon Sang-Ho",
+    "annees": 2016,
+    "legende": "zombie",
+    "origine": "Afrique, Antilles, Louisiane et Europe"
+  },
+  {
+    "titre": "Get Out",
+    "realisateurice": "Jordan Peele",
+    "annees": 2017,
+    "legende": "zombie",
+    "origine": "Afrique, Antilles, Louisiane et Europe"
+  },
+  {
+    "titre": "Us",
+    "realisateurice": "Jordan Peele",
+    "annees": 2019,
+    "legende": "zombie",
+    "origine": "Afrique, Antilles, Louisiane et Europe"
+  },
+  {
+    "titre": "His House",
+    "realisateurice": "Remi Weekes",
+    "annees": 2020,
+    "legende": "zombie",
+    "origine": "Afrique, Antilles, Louisiane et Europe"
+  },
+  {
+    "titre": "The Last Girl - Celle qui a tous les dons",
+    "realisateurice": "Colm McCarthy",
+    "annees": 2016,
+    "legende": "zombie",
+    "origine": "Afrique, Antilles, Louisiane et Europe"
+  },
+  {
+    "titre": "Peninsula",
+    "realisateurice": "Yeon Sang-Ho",
+    "annees": 2020,
+    "legende": "zombie",
+    "origine": "Afrique, Antilles, Louisiane et Europe"
+  },
+  {
+    "titre": "The Cured",
+    "realisateurice": "David Freyne",
+    "annees": 2018,
+    "legende": "zombie",
+    "origine": "Afrique, Antilles, Louisiane et Europe"
+  },
+  {
+    "titre": "Cargo",
+    "realisateurice": "Yolanda Ramke et Ben Howling",
+    "annees": 2017,
+    "legende": "zombie",
+    "origine": "Afrique, Antilles, Louisiane et Europe"
+  },
+  {
+    "titre": "Wendigo",
+    "realisateurice": "Larry Fessenden",
+    "annees": 2001,
+    "legende": "wendigo",
+    "origine": "Premi\u00e8res Nations algonquiennes"
+  },
+  {
+    "titre": "Wendigo",
+    "realisateurice": "Paul Kener",
+    "annees": 1978,
+    "legende": "wendigo",
+    "origine": "Premi\u00e8res Nations algonquiennes"
+  },
+  {
+    "titre": "Bound by Blood: Wendigo",
+    "realisateurice": "Len Kabasinski",
+    "annees": 2010,
+    "legende": "wendigo",
+    "origine": "Premi\u00e8res Nations algonquiennes"
+  },
+  {
+    "titre": "Frostbiter",
+    "realisateurice": "Tom Chaney",
+    "annees": 1996,
+    "legende": "wendigo",
+    "origine": "Premi\u00e8res Nations algonquiennes"
+  },
+  {
+    "titre": "Transmutation",
+    "realisateurice": "Emmett Alston",
+    "annees": 1988,
+    "legende": "wendigo",
+    "origine": "Premi\u00e8res Nations algonquiennes"
+  },
+  {
+    "titre": "The Shortcut",
+    "realisateurice": "Nicholaus Goossen",
+    "annees": 2009,
+    "legende": "wendigo",
+    "origine": "Premi\u00e8res Nations algonquiennes"
+  },
+  {
+    "titre": "Le Carnage",
+    "realisateurice": "Donald M. Jones",
+    "annees": 1982,
+    "legende": "wendigo",
+    "origine": "Premi\u00e8res Nations algonquiennes"
+  },
+  {
+    "titre": "Krampus Unleashed",
+    "realisateurice": "Robert Conway",
+    "annees": 2016,
+    "legende": "Krampus",
+    "origine": "Allemagne"
+  },
+  {
+    "titre": "Krampus - The Reckoning",
+    "realisateurice": "Robert Conway",
+    "annees": 2015,
+    "legende": "Krampus",
+    "origine": "Allemagne"
+  },
+  {
+    "titre": "Return of Krampus",
+    "realisateurice": "David Gregory",
+    "annees": 2022,
+    "legende": "Krampus",
+    "origine": "Allemagne"
+  },
+  {
+    "titre": "The Curse of Krampus",
+    "realisateurice": "Matt Cloude",
+    "annees": 2017,
+    "legende": "Krampus",
+    "origine": "Allemagne"
+  },
+  {
+    "titre": "Mother Krampus 2: Slay Ride",
+    "realisateurice": "Eddie Lengyel",
+    "annees": 2019,
+    "legende": "Krampus",
+    "origine": "Allemagne"
+  },
+  {
+    "titre": "Krampus: The Christmas Devil",
+    "realisateurice": "Jason Hull",
+    "annees": 2013,
+    "legende": "Krampus",
+    "origine": "Allemagne"
+  },
+  {
+    "titre": "Krampus Unleashed",
+    "realisateurice": "Robert Conway",
+    "annees": 2016,
+    "legende": "Krampus",
+    "origine": "Allemagne"
+  },
+  {
+    "titre": "Mother Krampus",
+    "realisateurice": "James Klass",
+    "annees": 2017,
+    "legende": "Krampus",
+    "origine": "Allemagne"
+  },
+  {
+    "titre": "Slender Man",
+    "realisateurice": "Sylvain White",
+    "annees": 2018,
+    "legende": "slender man",
+    "origine": "Amerique du nord"
+  },
+  {
+    "titre": "The Slender Man",
+    "realisateurice": "Eric Tremaine",
+    "annees": 2016,
+    "legende": "slender man",
+    "origine": "Amerique du nord"
+  },
+  {
+    "titre": "Slender Man",
+    "realisateurice": "Andrey Bulahov",
+    "annees": 2013,
+    "legende": "slender man",
+    "origine": "Amerique du nord"
+  },
+  {
+    "titre": "The Slender Man",
+    "realisateurice": "Anthony Meadows",
+    "annees": 2013,
+    "legende": "slender man",
+    "origine": "Amerique du nord"
+  },
+  {
+    "titre": "The Slender Man",
+    "realisateurice": "Michael Davis",
+    "annees": 2013,
+    "legende": "slender man",
+    "origine": "Amerique du nord"
+  },
+  {
+    "titre": "Qui a peur du Slenderman ?",
+    "realisateurice": "Irene Taylor Brodsky",
+    "annees": 2016,
+    "legende": "slender man",
+    "origine": "Amerique du nord"
+  },
+  {
+    "titre": "Le Double Mal\u00e9fique",
+    "realisateurice": "Avi Nesher",
+    "annees": 1993,
+    "legende": "Doppelg\u00e4nger",
+    "origine": "Allemagne et Europe du Nord"
+  },
+  {
+    "titre": "Danger: Plan\u00e8te Inconnue",
+    "realisateurice": "Robert Parrish",
+    "annees": 1969,
+    "legende": "Doppelg\u00e4nger",
+    "origine": "Allemagne et Europe du Nord"
+  },
+  {
+    "titre": "L'\u00c9t\u00e9 de la Peur",
+    "realisateurice": "Wes Craven",
+    "annees": 1978,
+    "legende": "Doppelg\u00e4nger",
+    "origine": "Allemagne et Europe du Nord"
+  },
+  {
+    "titre": "Banshee!!!",
+    "realisateurice": "Colin Theys",
+    "annees": 2008,
+    "legende": "Banshee",
+    "origine": "Mythologie celtique des Ga\u00ebls"
+  },
+  {
+    "titre": "Banshee Chapter",
+    "realisateurice": "Blair Erickson",
+    "annees": 2013,
+    "legende": "Banshee",
+    "origine": "Mythologie celtique des Ga\u00ebls"
+  },
+  {
+    "titre": "The Banshee",
+    "realisateurice": "Steven C. Miller",
+    "annees": 2011,
+    "legende": "Banshee",
+    "origine": "Mythologie celtique des Ga\u00ebls"
+  },
+  {
+    "titre": "Les Crocs de Satan",
+    "realisateurice": "Gordon Hessler",
+    "annees": 1970,
+    "legende": "Banshee",
+    "origine": "Mythologie celtique des Ga\u00ebls"
+  },
+  {
+    "titre": "The Task",
+    "realisateurice": "Alex Orwell",
+    "annees": 2011,
+    "legende": "Banshee",
+    "origine": "Mythologie celtique des Ga\u00ebls"
+  }
+]
